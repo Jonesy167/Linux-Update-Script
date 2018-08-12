@@ -1,1 +1,1 @@
-# Linux-Update-Script, Requires root privileges to run. Updates then performs distibution upgrade. Script fixes missing dependancies and then removes obsolete packages, finally it clears cache.  
+# Linux-Update-Script. Updates then performs distibution upgrade, fixes missing dependancies and then removes obsolete packages, finally it clears cache.  
