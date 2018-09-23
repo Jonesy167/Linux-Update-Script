@@ -3,7 +3,7 @@
 ##############by JONESY167 https://github.com/Jonesy167###############################
 if [[ $EUID -ne 0 ]]; then
    echo " "
-   echo "MEEDS ROOT PRIVILEGES TO RUN"
+   echo "NEEDS ROOT PRIVILEGES TO RUN"
    echo " "
    sleep 1
    sudo echo " "
